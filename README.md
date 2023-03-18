@@ -65,8 +65,8 @@ https://api.themoviedb.org/3/movie/$movieId/reviews?api_key=$API_KEY&page=$page&
 
 Screenshot
 
-<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img1.jpg" width="23%"></img> 
-<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img2.jpg" width="23%"></img> 
-<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img3.jpg" width="23%"></img> 
-<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img4.jpg" width="23%"></img> 
+<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img1.png" width="23%"></img> 
+<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img2.png" width="23%"></img> 
+<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img3.png" width="23%"></img> 
+<img src="https://raw.githubusercontent.com/ekohendratno/themoviesflutter/main/screenshot/img4.png" width="23%"></img> 
 
